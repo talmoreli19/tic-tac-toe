@@ -1,8 +1,8 @@
 const cells=document.querySelectorAll('.cell');
 const statusTxt=document.querySelector('#status');
 const RestartBtn=document.querySelector('#restart');
-let x="<img src='xphoto.png'>";
-let o="<img src='redcircale.png'> ";
+let x="<img src='/assets/imgs/xphoto.png'>";
+let o="<img src='/assets/imgs/redcircale.png'> ";
 
 const win=[
   [0,1,2],
